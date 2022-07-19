@@ -1,0 +1,6 @@
+beans/model/Localidad.class
+beans/lifecycle/DebuggerListener.class
+beans/model/Candidato.class
+beans/configuracion/ConfigurationJSF.class
+beans/helper/LocalidadHelper.class
+beans/backing/VacanteForm.class
